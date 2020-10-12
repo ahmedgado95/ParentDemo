@@ -7,3 +7,10 @@
 //
 
 import Foundation
+struct ChildModel: Codable {
+    let id: String
+    let name: String?
+    let email: String?
+    let lat: Double?
+    let lang: Double?
+}

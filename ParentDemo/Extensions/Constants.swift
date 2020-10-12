@@ -7,3 +7,18 @@
 //
 
 import Foundation
+struct Constants {
+    static let uSERSPARENT = "Parent"
+    static let uSERSCHILD = "Child"
+    static let iD = "Id"
+    static let nAME = "ParentName"
+    static let eMail = "ParentEmail"
+    static let lAT = "Lat"
+    static let lANG = "Lang"
+    static let hAVECHILD = "HaveChild"
+    static let lATCHILD = "ChildLat"
+    static let lANGCHILD = "ChildLang"
+    static let nAMEChild = "ChildName"
+    static let eMailCHILD = "ChildEmail"
+    static let aPIKEY = ""
+}
